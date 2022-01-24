@@ -8,25 +8,25 @@
 ## Results
     - There are a total of 240,124 active employees. (image A-1)
 
-![]()
+![](https://github.com/maadpeal/Pewlett-Hackard-Analysis/blob/main/Resources/A-1.png)
 
 (image A-1)
 
     - There are 72,458 employees who are going to retire. (image B-1)
 
-![]()
+![](https://github.com/maadpeal/Pewlett-Hackard-Analysis/blob/main/Resources/B-1.png)
 
 (image B-1)
 
     - The largest number of employees to retire are in the positions of Senior Engineer and Senior Staff. (image C-1).
 
-![]()
+![](https://github.com/maadpeal/Pewlett-Hackard-Analysis/blob/main/Resources/C-1.png)
 
 (image C-1)
 
     - The employees who are eligible for the tutorials are 1549. (image D-1)
 
-![]()
+![](https://github.com/maadpeal/Pewlett-Hackard-Analysis/blob/main/Resources/D-1.png)
 
 (image D-1)
 
@@ -36,7 +36,7 @@
 ##### How many roles will need to be filled as the "silver tsunami" begins to make an impact?
     - There are 7 roles that are going to be affected. (image E-1)
 
-![]()
+![](https://github.com/maadpeal/Pewlett-Hackard-Analysis/blob/main/Resources/E-1.png)
 
 (image E-1)
 
@@ -52,6 +52,6 @@
     active employees, if we want the company not to be affected by its performance due to lack of personnel, action must be taken 
     soon, the people who are eligible for mentorship are not sufficient to fill the vacant positions. (image F-1)
 
-![]()
+![](https://github.com/maadpeal/Pewlett-Hackard-Analysis/blob/main/Resources/F-1.png)
 
 (image F-1)
